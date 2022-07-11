@@ -1,0 +1,39 @@
+*{
+margin:0;
+text-decoration: none;
+}
+body{
+  background-color:#f0fff0;
+  font-family: 'Dosis', sans-serif;
+}
+.intro-img{
+  height: 250px;
+  width: auto;
+margin: 10px 500px;
+}
+
+header{
+  background-color: #ecebbd;
+  height: 350px;
+}
+h1, h2, h3{
+font-family: 'Lobster', cursive;
+font-weight: normal;
+margin: 20px;
+}
+#title-intro{
+  margin: 10px;
+  font-size: 50px;
+  letter-spacing: 4px;
+  text-align: center;
+ color: #ffc40c;
+}
+.list {
+  border: 2px green solid;
+  margin: 20px;
+  width: 500px;
+  list-style: none;
+}
+ul li {
+  padding: 5px;
+}
